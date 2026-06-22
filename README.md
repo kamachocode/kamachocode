@@ -1,102 +1,71 @@
-# Hi, I'm Matías 👋
+<h1 align="center">Hi 👋, I'm Matías</h1>
+<h3 align="center">Frontend / Full-stack Developer focused on practical software and real-world tools</h3>
 
-**Frontend / Full-stack Developer** focused on building practical software for real operational environments, internal tools, and user-centered workflows.
+<p align="center">
+  I build internal tools, operational platforms, and user-centered applications with a practical product mindset.
+</p>
 
-I enjoy turning complex business needs into products that are clear, useful, and maintainable.
+---
+
+## 🚀 About Me
+
+- 💻 Frontend / Full-stack Developer
+- 🧩 Interested in internal tools, business software, and desktop-style web apps
+- 🌱 Currently improving my frontend architecture and full-stack skills
+- 📍 Chile
+
+---
+
+## 🛠 Languages & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,express,python,fastapi,mysql,sqlite,git,github,vscode" />
+</p>
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kamachocode&show_icons=true&theme=transparent&hide_border=true&locale=en" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamachocode&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+</p>
+
+> ⚠️ Stats mainly reflect public repositories and may not fully represent private or collaborative work.
+
+---
+
+## 🎨 A bit of motion
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧩 PortfolioStratixSys
-**Internal portfolio generation platform**
+Internal platform for generating professional portfolio websites from validated YAML data.
 
-Contributed to an internal Python-based system that transforms validated YAML data into professional static portfolio websites, with preview, export, deployment tooling, and a guided desktop authoring experience.
-
-**Focus areas**
-- Wizard UX and editing flows
-- UI/template behavior improvements
-- Data-entry and profile configuration updates
-
-**Stack**
-`Python` `FastAPI` `Jinja2` `PySide6` `Pydantic` `PyYAML` `pytest`
-
-**Notes**
-- Internal project
-- Source code not public
-
----
+- **Worked on:** wizard UX, editing flows, UI/template behavior
+- **Stack:** Python, FastAPI, Jinja2, PySide6, Pydantic
+- **Status:** Internal project
 
 ### 📺 00_GestorPantallas
-**Real-time digital signage management system**
+Real-time digital signage management system for screen groups, uploads, auth, and content distribution.
 
-Contributed to a full-stack platform for managing groups of screens, multimedia uploads, authentication, and real-time content updates for local-network environments.
-
-**Focus areas**
-- Backend security improvements
-- Authentication-related flows
-- Safer operational request handling
-
-**Stack**
-`Angular` `Node.js` `Express` `MySQL` `SQLite` `Socket.IO` `JWT` `bcrypt` `Multer`
-
-**Notes**
-- Private/internal project
-- Source code not public
-
----
+- **Worked on:** backend security improvements and auth-related flows
+- **Stack:** Angular, Express, MySQL, SQLite, Socket.IO
+- **Status:** Private/internal project
 
 ### 🖥️ totemSpaSoft
-**Desktop-style kiosk and information system**
+Desktop-style kiosk and information system for registration, emergency information, maps, and admin workflows.
 
-Contributed to a Python + web-based kiosk application designed for operational environments, with user registration, emergency information, maps, and admin workflows.
-
-**Focus areas**
-- Emergency and map-related views
-- Feature updates and UI adjustments
-- Desktop app integration flow
-
-**Stack**
-`Python` `SQLite` `HTML` `CSS` `JavaScript` `pywebview`
-
-**Notes**
-- Private project
-- Source code not public
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-`HTML` `CSS` `JavaScript` `Angular`
-
-### Backend / App Development
-`Node.js` `Express` `Python` `FastAPI`
-
-### Data / Realtime
-`MySQL` `SQLite` `Socket.IO`
-
-### Tools
-`Git` `GitHub` `GitHub Desktop` `Jinja2` `PySide6` `pytest`
-
----
-
-## 🎯 What I Like Building
-
-- Internal tools that solve real operational problems
-- Frontend experiences with clear workflows
-- Full-stack applications with authentication and data handling
-- Desktop-style software powered by web technologies
-- Maintainable products with practical business value
-
----
-
-## 🌱 Currently Learning / Improving
-
-- Frontend architecture
-- Full-stack product development
-- Better UI/UX for business tools
-- Clean and scalable code structure
+- **Worked on:** emergency/map views, UI adjustments, app integration
+- **Stack:** Python, SQLite, HTML, CSS, JavaScript, pywebview
+- **Status:** Private project
 
 ---
 
@@ -104,4 +73,4 @@ Contributed to a Python + web-based kiosk application designed for operational e
 
 - GitHub: [@kamachocode](https://github.com/kamachocode)
 - LinkedIn: [Add your LinkedIn here]
-- Email: [Add your email here]
+- Portfolio / Website: [Add your link here]
