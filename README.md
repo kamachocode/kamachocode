@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matías</h1>
+<h1 align="center">Hi 👋, I'm Matias</h1>
 <h3 align="center">Junior Web Developer | IT Support | Digital Solutions for Businesses</h3>
 
 <p align="center">
@@ -7,11 +7,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,express,python,fastapi,mysql,sqlite,git,github,vscode" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kamachocode&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamachocode&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
