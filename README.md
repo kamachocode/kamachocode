@@ -32,6 +32,5 @@ Desktop-style kiosk and information system for registration, maps, emergency inf
 
 ## Contact
 
-- GitHub: [@kamachocode](https://github.com/kamachocode)
 - LinkedIn: www.linkedin.com/in/matias-arancibia-solis-572426302
 - Mail: as.matias98@gmail.com
